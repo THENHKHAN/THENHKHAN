@@ -1,6 +1,6 @@
 - 👋 Hi, I’m NOORUL HUDA KHAN
 - 👀 I’m interested in learning new skills always.
-- 🌱 I’m currently learning C++ with STL.
+- 🌱 Started A Channel Where I teach C++ Zero to Advance
 - 💞️ I’m looking to collaborate on basic project in which C and C++ used only
 - 📫 How to reach me Just drop a mail.
 
