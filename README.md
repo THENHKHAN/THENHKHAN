@@ -1,7 +1,7 @@
 - 👋 Hi, I’m NOORUL HUDA KHAN
 - 👀 I’m interested in learning new skills always.
 - 🌱 Started A Channel Where I teach C++ Zero to Advance
-- 💞️ I’m looking to collaborate on basic project in which C and C++ used only
+- 💞️ I’m looking to collaborate on basic project in which C++, Core JAVA, Python used only
 - 📫 How to reach me Just drop a mail.
 - Youtube Channel :-> https://www.youtube.com/channel/UCpXb6t4SM86TgI9EfCPuHkg
 
