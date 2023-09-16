@@ -3,7 +3,8 @@
 - 🌱 Started A Channel Where I teach C++ Zero to Advance,python , java etc...
 - 💞️ I’m looking to collaborate on : FastApi , Flask ,Django , JS , C++ , Python , JAVA...
 - 📫 How to reach me Just drop a mail:noorulhuda101099@gmail.com
--👀 Youtube Channel :-> https://www.youtube.com/c/CodingWithNHKHAN22/featured
+- 👀 Youtube Channel :-> https://www.youtube.com/c/CodingWithNHKHAN22/featured
+  
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,html,css,bootstrap,js,python,fastapi,django,flask,mongodb,postgres,java,docker,c,cpp,vim,azure" />
