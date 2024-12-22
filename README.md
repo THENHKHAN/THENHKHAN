@@ -3,7 +3,7 @@
 - 🌱 Started A Youtube Channel Where I am teaching C++ Zero to Advance,python , java etc...
 - 💞️ I’m looking to collaborate on : Gen AI, Spring Boot, JAVA, GraphQL, FastApi , Flask ,Django, DataBricks, Microsoft Azure , JS , C++ , Python
 - 📫 How to reach me Just drop a mail: noorulhuda101099@gmail.com
-- 👀 Youtube Channel :-> https://www.youtube.com/c/CodingWithNHKHAN22/featured
+- 👀 Youtube Channel : -> https://www.youtube.com/c/CodingWithNHKHAN22/featured
   
 <p align="center">
   <a href="https://skillicons.dev">
