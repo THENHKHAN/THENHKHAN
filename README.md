@@ -1,9 +1,19 @@
-- 👋 Hi, I’m NOORUL HUDA KHAN
-- 👀 I’m interested in learning new skills always.
-- 🌱 Started A Youtube Channel Where I am teaching C++ Zero to Advance, python, java etc..
-- 💞️ I’m looking to collaborate on : Gen AI, Spring Boot, JAVA, GraphQL, FastApi, Flask, Django, DataBricks, Microsoft Azure, JS, C++, Python
-- 📫 How to reach me Just drop a mail: noorulhuda101099@gmail.com
-- 👀 Youtube Channel : -> https://www.youtube.com/c/CodingWithNHKHAN22/featured
+### 👋 Hi there! I'm **Noorul Huda Khan**
+
+🚀 Passionate about learning and sharing knowledge through real-world tech.
+
+- 🎓 **Lifelong Learner** | Always exploring new tools, technologies, and frameworks.
+- 🎥 **Content Creator** | Teaching **C++, Python, Java**, and more on my [YouTube channel](https://www.youtube.com/c/CodingWithNHKHAN22/featured) — from **Zero to Advanced**.
+- 🤝 **Looking to Collaborate On**:
+  - Generative AI, Spring Boot, Java, GraphQL  
+  - FastAPI, Flask, Django  
+  - DataBricks, Microsoft Azure  
+  - JavaScript, Python, C++
+
+📬 **Reach out to me**:  
+📧 Email: noorulhuda101099@gmail.com  
+📺 YouTube: [Coding With NH KHAN](https://www.youtube.com/c/CodingWithNHKHAN22/featured)
+
   
 <p align="center">
   <a href="https://skillicons.dev">
